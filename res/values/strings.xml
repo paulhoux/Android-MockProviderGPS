@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="hello">Disable the GPS receiver on this device to use the Mock GPS Provider.</string>
+    <string name="app_name">Mock GPS Provider Test</string>
+</resources>
